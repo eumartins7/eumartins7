@@ -1,4 +1,4 @@
-# 👋 Opa, eu sou o Gabriel
+# 👨🏻‍💻 Opa, eu sou o Gabriel 👨🏻‍💻
 
 Sou desenvolvedor Front-end focado em **performance, clareza de código e boas práticas**.  
 Gosto de construir interfaces simples, rápidas e bem estruturadas, pensando sempre em usabilidade e manutenção.
@@ -26,13 +26,6 @@ Projeto desenvolvido como estudo avançado e portfólio.
 🧠 Stack: Next.js · React · TypeScript · Zustand · Tailwind
 
 > Neste projeto Implementei gerenciamento de estado global com Zustand para reduzir a renderização desnecessária de componentes, otimizando a performance da aplicação, componentes reutilizáveis e estrutura pensada para clientes reais.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eumartins7&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumartins7&layout=compact&theme=default)
 
 ---
 
