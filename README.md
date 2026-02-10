@@ -38,8 +38,8 @@ Projeto desenvolvido como estudo avançado e portfólio.
 
 ## 📫 Contato
 
-[<p align="left">
-  <a href="mailto:gabrielmartins8802@gmail.com" title="Gmail">
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&to=gabrielmartins8802@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
@@ -54,4 +54,4 @@ Projeto desenvolvido como estudo avançado e portfólio.
   <a href="https://www.instagram.com/eumartins.7/" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-</p>](https://mail.google.com/mail/?view=cm&to=gabrielmartins8802@gmail.com)
+</p>
